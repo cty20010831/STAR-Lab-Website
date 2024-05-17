@@ -10,6 +10,7 @@ The documentation for this template can be found here [here](https://greene-lab.
 |-----------------------|--------------------------|
 | Set up your site      | [link](https://greene-lab.gitbook.io/lab-website-template-docs/getting-started/set-up-your-site)|
 | Repo structure        | [link](https://greene-lab.gitbook.io/lab-website-template-docs/basics/repo-structure)|
+| Edit pages            | [link](https://greene-lab.gitbook.io/lab-website-template-docs/basics/edit-pages)|
 
 ## Code Implementation
 This section contains some steps involved to tweak the template, test the website, and preview the website.
@@ -24,5 +25,9 @@ After installing the Docker Desktop, run the following command in the terminl to
 ## Materials needed
 1. Images for lab website
 2. Lab icon(s)
-3. Overview of research interests
-4. Contact information
+3. Overview of research interests (research overview)
+4. Some example research paper (published?) and projects (ongoing?)
+    - Brief introduction (abstract style?)
+    - An image for the study?
+5. Contact information (other than the email; probably an organization github repository?)
+6. Personal description (and personal photo)
