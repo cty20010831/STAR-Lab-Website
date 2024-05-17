@@ -11,6 +11,7 @@ The documentation for this template can be found here [here](https://greene-lab.
 | Set up your site      | [link](https://greene-lab.gitbook.io/lab-website-template-docs/getting-started/set-up-your-site)|
 | Repo structure        | [link](https://greene-lab.gitbook.io/lab-website-template-docs/basics/repo-structure)|
 | Edit pages            | [link](https://greene-lab.gitbook.io/lab-website-template-docs/basics/edit-pages)|
+| Citations             | [link](https://greene-lab.gitbook.io/lab-website-template-docs/basics/citations) |
 
 ## Code Implementation
 This section contains some steps involved to tweak the template, test the website, and preview the website.
