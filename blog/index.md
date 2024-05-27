@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Ongoing Projects
 
-The followings are a list of our lab's ongoing projects.
+<!-- The followings are a list of our lab's ongoing projects. -->
 
 {% include section.html %}
 
