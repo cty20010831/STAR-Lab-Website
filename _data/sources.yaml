@@ -16,8 +16,72 @@
     - collaboration
   repo: greenelab/meta-review
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+# Understanding suicidal ideation disparity between sexual minority and heterosexual Chinese young men: a multiple mediation model of social support sources, self-esteem, and depressive symptoms
+- id: doi:10.3389/fpsyt.2024.1265722
+  image: 
+  tags:
+    - mediation
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+# Dissociable memory modulation mechanisms facilitate fear amnesia at different timescales
+- id: doi:10.1101/2024.04.16.589786
+  image: 
+
+# COVID-19 related stress during and one year after the first wave of the pandemic outbreak in China: The role of social support and perceptions of the pandemic
+- id: doi:10.3389/fpsyt.2022.1009810
+  image: 
+
+# COVID-19 Related Stress and Mental Health Outcomes 1 Year After the Peak of the Pandemic Outbreak in China: the Mediating Effect of Resilience and Social Support
+- id: doi:10.3389/fpsyt.2022.828379
+  image: 
+
+# Active suppression prevents the return of threat memory in humans
+- id: doi:10.1038/s42003-021-02120-2 
+  image: 
+
+# Delay discounting decisions are linked to temporal distance representations of world events across cultures
+- id: doi:10.1038/s41598-020-69700-w
+  image: 
+
+# A Cross-Cultural Examination of the Role of Time Representation in Economic Decision-Making
+- id: doi:10.1016/j.biopsych.2020.02.357
+  image: 
+
+# Disparity in depressive symptoms between heterosexual and sexual minority men in China: The role of social support
+- id: doi:10.1371/journal.pone.0226178
+  image: 
+
+# The effect of oxytocin on fear responses: bidirectional regulation or methodological issues?]
+- id: doi:10.13294/j.aps.2019.0079 
+  image: 
+
+# Advances in understanding and clinical application of memory updating through reconsolidation in humans
+- id: doi:10.1016/j.ibror.2019.07.044
+  image: 
+
+# Relationship between mental health and burden among primary caregivers of outpatients with schizophrenia
+- id: doi:10.1111/famp.12340
+  image: 
+
+# Cue specificity of reconsolidation update mechanism in remote fear memories
+- id: doi:10.3724/SP.J.1041.2019.00316
+  image: 
+
+# Neural computations of threat in the aftermath of combat trauma
+- id: doi:10.1038/s41593-018-0315-x
+  image: 
+
+# Author Correction: Neural computations of threat in the aftermath of combat trauma (Nature Neuroscience,(2019)
+# - id: doi:10.1038/s41593-019-0356-9
+#   image: 
+
+# Post-retrieval oxytocin facilitates next day extinction of threat memory in humans
+- id: doi:10.1007/s00213-018-5074-6
+  image: 
+
+# Reminder duration determines threat memory modification in humans
+- id: doi:10.1038/s41598-018-27252-0
+  image: 
+
+# Predictors of Suicidal Ideation Among Children and Adolescents: Roles of Mental Health Status and Meaning in Life
+- id: doi:10.1007/s10566-017-9427-9
+  image: 

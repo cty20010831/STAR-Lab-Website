@@ -1,10 +1,10 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Research on the intervention effects and mechanisms of cognitive reappraisal on traumatic memories in college students and MDD patients based on the memory reconsolidation mechanism
+  subtitle: 
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: 
+  description: This project focuses on the effects and underlying mechanisms of cognitive reappraisal interventions on traumatic memories in college students. Based on memory reconsolidation mechanisms, the research aims to modify the emotional impact of traumatic memories and improve mental health outcomes. Various psychological experimental techniques and brain imaging methods will be used to assess these interventions' effectiveness and neural basis. This project is supported by the Ministry of Education Humanities and Social Sciences Research Youth Fund and the Shenzhen Basic Research Natural Science Foundation.
+  repo: 
   tags:
     - resource
 
