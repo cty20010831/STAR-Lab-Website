@@ -1,10 +1,8 @@
 ---
 ---
 
-# Lab Website Template
-
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+# About
+Welcome to STAR Lab! The STAR laboratory is based at Shenzhen Kangning Hospital (Shenzhen Mental Health Center, The Affiliated Mental Health Center of Southern University of Science and Technology). It is equipped with all the necessary instruments for our project, including several multi-channel physiological recorders, several sets of TMS (transcranial magnetic stimulation), tDCS (transcranial direct current stimulation), tACS (transcranial alternating current stimulation) and two sets of 3.0 T Siemens MRI systems with ancillary equipment. The facility has all the necessary instruments and equipment for our projects. There is an adequate supply of patients with anxiety and depressive disorders to ensure the smooth running of all projects carried out in our laboratory.
 
 {%
   include button.html
