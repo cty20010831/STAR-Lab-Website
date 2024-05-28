@@ -161,10 +161,6 @@
   image: null
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.13294/j.aps.2019.0079
-  image: null
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1016/j.ibror.2019.07.044
   title: Advances in understanding and clinical application of memory updating through
     reconsolidation in humans
