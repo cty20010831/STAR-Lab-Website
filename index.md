@@ -37,7 +37,7 @@ This line of research focuses on the development of innovative therapeutic appro
 
 {%
   include feature.html
-  image="images/research1.jpg"
+  image="images/memory_reconsolidation_image.jpeg"
   link="research"
   title="Development of novel interventions based on memory reconsolidation mechanisms (for MDD and PTSD)"
   text=text
@@ -61,7 +61,7 @@ This line of research interest aims to elucidate the underlying neurocomputation
 
 {%
   include feature.html
-  image="images/research2.jpg"
+  image="images/neural_computation_image.jpg"
   link="projects"
   title="Neurocomputational mechanisms on anxiety and depressive disorders"
   flip=true
@@ -87,7 +87,7 @@ This line of research focuses on studying public mental health through survey-ba
 
 {%
   include feature.html
-  image="images/research3.jpg"
+  image="images/public_health_image.jpeg"
   link="team"
   title="Public mental health research"
   text=text
