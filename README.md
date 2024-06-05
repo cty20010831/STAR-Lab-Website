@@ -30,18 +30,17 @@ Sometimes, after changing the sources (doi) for `research` page, it will keep fa
 Some important sections for customizing the lab website is listed below:
 
     .
-    ├── _cite           
+    ├── _cite               # Python script to automatically generate citation information using manubot
     ├── _data
-    │   ├── citations.yaml
-    │   ├── sources.yaml
-    │   ├── types.yaml      # buttons used in the website
-    ├── _members            # markdown files storing personal description for each lab memberfor
-    ├── _posts          
+    │   ├── citations.yaml  # Automatically generated citations
+    │   ├── sources.yaml    # doi used to generate citations 
+    │   ├── types.yaml      # buttons/icons used in the website
+    ├── _members            # markdown files storing personal description for each lab memberfor        
     ├── .docker             # Docker-related files to preview the website
-    ├── blog                # Blog posts and related content
     ├── contact             # Contact information of the lab           
     ├── images              # Stores images used in the lab website
-    ├── research            # List of lab publications
+    ├── ongoing_projects    # List of STAR lab ongoing projects
+    ├── research            # List of STAR lab publications
     ├── team                # team section page on the website
     ├── _config.yaml        # Controls site properties, page defaults, site social media, and other links
     ├── index.md            # Controls the structure of the front page (sections and buttons)
