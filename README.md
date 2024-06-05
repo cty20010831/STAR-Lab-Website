@@ -27,6 +27,23 @@ After installing the Docker Desktop, run the following command in the terminl to
 Sometimes, after changing the sources (doi) for `research` page, it will keep failing to generate the website in the terminal while running the preview commands. One workaround is to delete the `_site` folder, restart the terminal and then run the site previewing commands (see above) again. 
 
 ## Repository navigation
+Some important sections for customizing the lab website is listed below:
+    .
+    ├── _cite           
+    ├── _data
+    │   ├── citations.yaml
+    │   ├── sources.yaml
+    │   ├── types.yaml    
+    ├── _members                  
+    ├── _posts   
+    ├── .docker         # Docker-related files
+    ├── blog            # Blog posts and related content
+    ├── contact         # Contact information of the lab           
+    ├── images          # Stores images used in the lab website
+    ├── research        # List of lab publications
+    ├── team            # Personal description for each lab member
+    ├── _config.yaml    # Controls site properties, page defaults, site social media, and other links
+    ├── index.md        # Controls the structure of the front page (sections and buttons)
 
 
 ## Materials needed
