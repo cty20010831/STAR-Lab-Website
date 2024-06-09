@@ -13,7 +13,7 @@ Our lab is dedicated to advancing mental health research through three primary l
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Neural computations of threat in the aftermath of combat trauma" style="rich" %}
 
 {% include section.html %}
 
